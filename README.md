@@ -10,3 +10,15 @@ Duyuru Ve Okul Adı Bu Sekildedir.
 ![pass](https://github.com/user-attachments/assets/aee8e4b5-7781-41b4-ab9f-46351fcf9472)
 
 Burada Okul Adı ve Akıllı Tahta Şifresi Değiştirme Yapabiliyorsunuz.
+
+# EduLock Masaüstü ve Uygulama Hali !
+![Ek Açıklama 2025-06-01 010002](https://github.com/user-attachments/assets/16db4605-e6ea-4652-8e0e-ddb666042d43)
+
+
+# Güncellemeler
+* USB Anahtar Oluşturma  
+* Uygulama Menüsü  
+* Ders Saatleri Yönetme  
+* Açılır Kapanır SideBar  
+* Kilit Ekranında YASAKLI Klavye Tuşları
+
